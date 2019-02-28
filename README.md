@@ -10,3 +10,8 @@ Metacello new
  repository: 'github://OBJECTSEMANTICS//SCarvingTestGenerator:master/src';
  load.
 ```
+
+## Note:
+To generate the tests type:
+
+```SCTGProof new generateTestSCTGAddition.```
