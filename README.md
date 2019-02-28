@@ -12,6 +12,10 @@ Metacello new
 ```
 
 ## Note:
-To generate the tests type:
+To generate the tests, type:
 
 ```SCTGProof new generateTestSCTGAddition.```
+
+and to generate Roassal's tests, type:
+
+ ```SCTGProof new generateTestSCTGRoassal.```
